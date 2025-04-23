@@ -61,6 +61,7 @@
     "ruhend-scraper": "^8.0.3",
     "ffmpeg": "^0.0.4",
     "fg-ig": "^0.0.2",
+    "adm-zip": "^0.5.16",
     "figlet": "^1.7.0",
     "file-type": "16.5.3",
     "fluent-ffmpeg": "^2.1.2",
