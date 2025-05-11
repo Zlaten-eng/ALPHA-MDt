@@ -16,7 +16,7 @@ const config = {
     session: process.env.SESSION_ID || 'keith',
     PREFIXE: process.env.PREFIX || "",
     OWNER_NAME: process.env.OWNER_NAME || "sîgtryggr",
-    NUMERO_OWNER: process.env.NUMERO_OWNER || "254718835933",     
+    NUMERO_OWNER: process.env.NUMERO_OWNER || "254788409105",     
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',    
     URL: process.env.URL || "https://files.catbox.moe/6hd2t7.jpg",                         
     AUTO_BLOCK: process.env.AUTO_BLOCK || 'no', 
